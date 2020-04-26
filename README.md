@@ -21,7 +21,7 @@ The Script simulates the bottons-press to rotate tabs(`Ctrl + Page Up` here) on 
 2) Open Chorme Browser with atleast 2 tabs
 
 3) Right-Click on File and Select `Run with PowerShell`
-![](readme/images/openwith.jps)
+![](readme/images/openwith.jpg)
 
 4) Accept the WARNING (if any)
 ![](readme/images/warning.JPG)
